@@ -2,7 +2,7 @@
 Masked antoencoder for subsurface velocity building
 
 # CODE
-After the article is received, the code is made public. Please waite .....
+After the paper is received, the code is made public. Please waite .....
 
 # ANY QUESTION 
 contact：guolong171@foxmail.com; guolongli@s.upc.edu.cn
